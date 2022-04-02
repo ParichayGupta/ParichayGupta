@@ -1,4 +1,25 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Palette+Mosaic&size=25&duration=8000&color=F7A010&width=550&lines=Hello+There+%F0%9F%91%8B%F0%9F%8F%BB%2C++I+am+Parichay;I+am+from+INDIA+%F0%9F%87%AE%F0%9F%87%B3)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=18d5f2&size=30&lines=Hi+There+%F0%9F%91%8B%F0%9F%8F%BB%2C++I+am+Parichay;I+am+from+INDIA+%F0%9F%87%AE%F0%9F%87%B3)
+<hr>
+
+<img src="https://profile-counter.glitch.me/ParichayGupta/count.svg">
+
+<hr>
+
+<p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ParichayGupta&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ParichayGupta&show_icons=true&locale=en&theme=algolia" alt="ovi" width="410" /></p>
+<br><br><br><br><br>
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ParichayGupta&theme=react-dark&hide_border=true&area=true)
+
+<hr>
+
+
+
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Github profile Trophies</p><br>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ParichayGupta&theme=onedark" /></p>
 <!--
 **ParichayGupta/ParichayGupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
