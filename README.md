@@ -11,7 +11,6 @@
 <hr>
 
 <p align="center">
- 
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Github Activity</b></i></p>
 <p></p>
 
@@ -21,10 +20,10 @@
 <!-- Languages states-->
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ParichayGupta&show_icons=true&locale=en&&theme=algolia" alt="ovi" /></p>
 
-
-<br>
 <!-- Github Activity Graph-->
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ParichayGupta&theme=react-dark&hide_border=true&area=true)
+<br>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=ParichayGupta&theme=react-dark&hide_border=true&area=true">
 
 <p align="center">
  
