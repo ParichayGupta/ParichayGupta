@@ -2,6 +2,21 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=18d5f2&size=30&lines=Hi+There+%F0%9F%91%8B%F0%9F%8F%BB%2C++I+am+Parichay;I+am+from+INDIA+%F0%9F%87%AE%F0%9F%87%B3)
 
+
+|T|h|i|n|g|s||I||💚|:|
+| - | - | - | - | - | - | - | - | - | - | - |
+| | | | | | | | | | |`W`|
+| |`D`|`E`|`S`|`I`|`G`|`N`| | | |`H`|
+|`M`| | | | | | | |`C`| |`I`|
+|`I`| | |`c`|`O`|`D`|`E`| |`O`| |`M`|
+|`N`| | | | | | | |`L`| |`S`|
+|`I`| |`S`|`O`|`C`|`I`|`O`|`L`|`O`|`G`|`Y`|
+|`M`| | | | | | | |`R`| | |
+|`A`| | | | | | | | | | |
+|`L`| | | | | | | | | | |
+|`I`| | | | | | | | | | |
+|`S`| | | | | | | | || |
+|`M`| | | | | | | | | | |
 <!-- Profile Visits-->
 <hr>
 <p align="left">Profile Views</p>
