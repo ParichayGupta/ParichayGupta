@@ -33,7 +33,7 @@
 
 <!-- Github Stats-->
 <p><img align="left" width="400" height="300" src="https://github-readme-stats.vercel.app/api?username=ParichayGupta&show_icons=true&locale=en&theme=algolia" alt="ovi" /></p>
-
+<br>
 <!-- Languages states-->
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ParichayGupta&show_icons=true&locale=en&&theme=algolia" alt="ovi" /></p>
 
