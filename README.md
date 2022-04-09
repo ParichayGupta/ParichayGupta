@@ -3,11 +3,11 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=18d5f2&size=30&lines=Hi+There+%F0%9F%91%8B%F0%9F%8F%BB%2C++I+am+Parichay;I+am+from+INDIA+%F0%9F%87%AE%F0%9F%87%B3)
 
 
-| A | B | O | U | T |   | M | E |   |   | : |
+| T | h | i | n | g | s |   | I |   |❣️ | : |
 | - | - | - | - | - | - | - | - | - | - | - |
 | A | K | C |   |   |   |   |   |   |   |   |
 |`M`|   |   |`P`|`E`|`A`|`C`|`E`|   |   |   |
-|`I`|`N`|`D`|`I`|`A`|`🇮🇳`|   |   |   |`C`|   |
+|`I`|`N`|`D`|`I`|`A`| 🇮🇳|   |   |   |`C`|   |
 |`N`|   |   |   |   |`R`|   |   |   |`R`|   |
 |`I`|   |   |   |   |`A`|`I`|   |   |`E`|   |
 |`M`|   |   |   |   |`M`|   |`D`|   |`A`|   |
