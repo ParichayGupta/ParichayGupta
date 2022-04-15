@@ -23,7 +23,6 @@
 
 <!-- Profile Visits-->
 <hr>
-
 <p align="left">Profile Views</p>
 <img src="https://profile-counter.glitch.me/ParichayGupta/count.svg">
 
