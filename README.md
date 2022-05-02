@@ -56,6 +56,20 @@
 <p align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
 <hr>
+<!--
+<p align="center">
+<div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
+  </a>
+</div>
+</p> -->
 
 <!-- Github Profile Trophy-->
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Github profile Trophies</p><br>
