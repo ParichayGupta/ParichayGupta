@@ -25,7 +25,6 @@
 <hr>
 <p align="center">Profile Views</p>
 <img src="https://profile-counter.glitch.me/ParichayGupta/count.svg">
-
 <!-- Github Activity-->
 <hr>
 
@@ -33,6 +32,8 @@
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Github Activity</b></i></p>
 <p></p>
  -->
+ 
+<p>Github Activity</p>
 <!-- Github Stats-->
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ParichayGupta&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ParichayGupta's Github Stats"></p>
 
@@ -75,6 +76,7 @@
 <!-- Github Profile Trophy-->
 <!-- <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30px" />&nbsp;Github profile Trophies</p><br>
  -->
+<p>Github profile Trophies</p>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ParichayGupta&theme=onedark&margin-w=15" /></p>
 <!--
 **ParichayGupta/ParichayGupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
