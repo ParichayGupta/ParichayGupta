@@ -47,7 +47,6 @@
 <br>
 
 
-
 <img src="https://activity-graph.herokuapp.com/graph?username=ParichayGupta&theme=react-dark&hide_border=true&area=true">
 
 <br>
@@ -58,6 +57,7 @@
 
 <hr>
 <p align="center">A Joke 😂</p>
+
 
 <p align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
@@ -85,6 +85,7 @@
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ParichayGupta&theme=onedark&margin-w=15" /></p>
 <!--
 **ParichayGupta/ParichayGupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
