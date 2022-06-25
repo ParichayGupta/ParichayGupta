@@ -28,13 +28,10 @@
 <!-- Github Activity-->
 <hr>
 
-
-
 <!-- <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Github Activity</b></i></p>
 <p></p>
  -->
- 
  
 <p align="center">Github Activity</p>
 <!-- Github Stats-->
@@ -45,7 +42,6 @@
 
 <!-- Github Activity Graph-->
 <br>
-
 
 <img src="https://activity-graph.herokuapp.com/graph?username=ParichayGupta&theme=react-dark&hide_border=true&area=true">
 
@@ -58,7 +54,6 @@
 <hr>
 <p align="center">A Joke 😂</p>
 
-
 <p align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
 <hr>
@@ -69,7 +64,6 @@
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
 </div>
-
 
 <div align="center">
   <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
@@ -85,7 +79,6 @@
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ParichayGupta&theme=onedark&margin-w=15" /></p>
 <!--
 **ParichayGupta/ParichayGupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 Here are some ideas to get you started:
 
