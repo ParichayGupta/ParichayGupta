@@ -2,7 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=2c524b&size=30&lines=Hi+There+%F0%9F%91%8B%F0%9F%8F%BB%2C++I+am+Parichay;I+am+from+INDIA+%F0%9F%87%AE%F0%9F%87%B3)
 
-
 |🌟 |🌟|🌟 |🌟| A | B | O | U | T |   | M | E |🌟|🌟 |🌟|🌟 |
 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 |`P`|`R`|`O`|`G`|`R`|`A`|`M`|`M`|`I`|`N`|`G`|   |   |   |   |   |
@@ -79,7 +78,6 @@
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ParichayGupta&theme=onedark&margin-w=15" /></p>
 <!--
 **ParichayGupta/ParichayGupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -91,3 +89,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- -->
