@@ -51,8 +51,7 @@
 </p>
 
 <hr>
-<p align="center">A Joke 😂</p>
-
+<p align="center">A Joke for Geeks 😂</p>
 <p align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
 <hr>
@@ -76,10 +75,13 @@
  -->
 <p align="center">Github profile Trophies</p>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ParichayGupta&theme=onedark&margin-w=15" /></p>
+
 <!--
 **ParichayGupta/ParichayGupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
+
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
