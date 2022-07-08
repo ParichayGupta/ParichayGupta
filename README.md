@@ -41,6 +41,7 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=ParichayGupta&theme=react-dark&hide_border=true&area=true">
 <br>
 <p align="center">
+
  <!-- Github Streaks-->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParichayGupta&theme=algolia&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
 </p>
