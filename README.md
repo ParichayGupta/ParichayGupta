@@ -21,11 +21,12 @@
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 
 <!-- Profile Visits-->
+<!--
 <hr>
 <p align="center">Profile Views</p>
 <img src="https://profile-counter.glitch.me/ParichayGupta/count.svg">
-<!-- Github Activity-->
-<hr>
+<!-- Github Activity
+<hr> -->
 
 
 
