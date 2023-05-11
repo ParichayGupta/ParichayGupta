@@ -26,32 +26,37 @@
 <p align="center">Profile Views</p>
 <img src="https://profile-counter.glitch.me/ParichayGupta/count.svg">
 <!-- Github Activity
-<hr> -->
+<hr> 
+-->
 
-
-
-<p align="center">Github Activity</p>
+<!--
+<p align="center">Github Activity</p>-->
 <!-- Github Stats-->
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ParichayGupta&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ParichayGupta's Github Stats"></p>
+<!--
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ParichayGupta&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ParichayGupta's Github Stats"></p> -->
 
 <!-- Languages states-->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ParichayGupta&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en&&theme=algolia" alt="ParichayGupta's language states" /></p> 
+<!--
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ParichayGupta&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en&&theme=algolia" alt="ParichayGupta's language states" /></p> -->
 
 <!-- Github Activity Graph-->
+<!--
 <br>
 <img src="https://activity-graph.herokuapp.com/graph?username=ParichayGupta&theme=react-dark&hide_border=true&area=true">
 <br>
 <p align="center">
+-->
 
  <!-- Github Streaks-->
+ <!--
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParichayGupta&theme=algolia&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
-</p>
-
+</p> -->
+<!--
 <hr>
 <p align="center">A Joke for Geeks 😂</p>
 <p align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
-<hr>
+<hr> -->
 <!--
 <p align="center">
 <div align="center">
