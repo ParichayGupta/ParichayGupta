@@ -21,6 +21,13 @@
 </div>
 </details>
 
+<br>
+    <p align="center"><b>The Serpentine Path of Progress 🐍</b></p>
+
+<p align="center">
+    <img src="https://github.com/ParichayGupta/ParichayGupta/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+<br>
 <hr>
 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/ParichayGupta/)](https://github.com/ParichayGupta/) 
