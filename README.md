@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=header"/>
 <h1 align="center">नमस्ते (Namaste) 🙏, I'm Parichay  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <h3 align="center">A software engineer from INDIA</h3>
 <hr>
@@ -28,6 +29,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=parichaygupta93@gmail.com)](parichaygupta93@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-ff694b?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/parichay.gupta/)](https://www.instagram.com/parichay.gupta/)
 <!-- end statics fun section -->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=footer"/>
 
 <!--
 - 🔭 I’m currently working on ...
