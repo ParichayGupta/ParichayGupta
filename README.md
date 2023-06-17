@@ -1,6 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=header"/>
 <h1 align="center">नमस्ते (Namaste) 🙏, I'm Parichay  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <h3 align="center">A software engineer from INDIA</h3>
+<!-- https://dev.to/parichay -->
+<p align="center">
+ <a href = "https://github.com/ParichayGupta/"> <img src = "http://img.shields.io/badge/-Github-black?style=flat-square&logo=github"> </a>
+ <a href = "https://www.linkedin.com/in/parichay-gupta/"> <img src = "https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"> </a>
+ <a href = "https://www.scaler.com/academy/profile/ff897fc340be/"> <img src = "https://img.shields.io/badge/-Scaler-2EC866?style=flat-square&logo=Scaler&logoColor=white"> </a>
+ <a href = "parichaygupta93@gmail.com"> <img src = "https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"> </a>
+ <a href = "https://www.instagram.com/parichay.gupta/"> <img src = "https://img.shields.io/badge/-Instagram-ff694b?style=flat-square&logo=Instagram&logoColor=white"> </a>
+</p>
 <hr>
 
 ## 💬 Ask me about
@@ -29,13 +37,6 @@
 </p> -->
 <br>
 <hr>
-
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/ParichayGupta/)](https://github.com/ParichayGupta/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parichay-gupta//)](https://www.linkedin.com/in/parichay-gupta/)
-[![Hackerrank Badge](https://img.shields.io/badge/-Scaler-2EC866?style=flat-square&logo=Scaler&logoColor=white&link=https://www.scaler.com/academy/profile/ff897fc340be/)](https://www.scaler.com/academy/profile/ff897fc340be/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=parichaygupta93@gmail.com)](parichaygupta93@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-ff694b?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/parichay.gupta/)](https://www.instagram.com/parichay.gupta/)
-<!-- end statics fun section -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=footer"/>
 
