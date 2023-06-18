@@ -6,7 +6,7 @@
  <a href = "https://github.com/ParichayGupta/"> <img src = "http://img.shields.io/badge/-Github-black?style=flat-square&logo=github"> </a>
  <a href = "https://www.linkedin.com/in/parichay-gupta/"> <img src = "https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"> </a>
  <a href = "https://www.scaler.com/academy/profile/ff897fc340be/"> <img src = "https://img.shields.io/badge/-Scaler-2EC866?style=flat-square&logo=Scaler&logoColor=white"> </a>
- <a href = "parichaygupta93@gmail.com"> <img src = "https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"> </a>
+ <a href = "mailto:parichaygupta93@gmail.com"> <img src = "https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"> </a>
  <a href = "https://www.instagram.com/parichay.gupta/"> <img src = "https://img.shields.io/badge/-Instagram-ff694b?style=flat-square&logo=Instagram&logoColor=white"> </a>
 </p>
 <hr>
