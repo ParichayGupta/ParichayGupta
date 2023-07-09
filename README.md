@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=100&section=header"/>
 <h1 align="center">नमस्ते (Namaste) 🙏, I'm Parichay  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <h3 align="center">A software engineer from INDIA</h3>
 <!-- https://dev.to/parichay -->
